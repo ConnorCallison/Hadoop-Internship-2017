@@ -221,7 +221,6 @@ Navigating / using HDFS:
 - `firefox http://localhost:50075`
 - These web portals are basically only good for checking if the DataNode is alive.
 
-![alt text](http://i.imgur.com/DGmkXrZ.png "Hadoop DataNode Portal")
 =======
 Hadoop/HDFS web portals (open from MobaXterm)
 
